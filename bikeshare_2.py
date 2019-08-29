@@ -63,9 +63,11 @@ def get_filters():
     return city, month, day
 
 def convert_date(input):
+    #Converts date string to date time format
     return time.strptime(input, '%Y-%m-%d %H:%M:%S')
 
 def column(input, row_ind):
+    #Converts Row data to a column for data frame
     return [row[row_ind] for row in input]
 
 def load_data(city, month, day):

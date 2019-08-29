@@ -11,5 +11,4 @@ This project analyzes bike data from 3 cities. Using the data, it prints descrip
 Include bikeshare_2.py for the data analysis and chicago.csv, new_york_city.csv, washington.csv for data analysis 
 
 ### Credits
-Motivated by Udacity's Nanodegree Programming for Data Science
-
+Motivated by Udacity's Nanodegree Programming for Data Science. This course teaches SQL, Python, and Git Version Control pertaining to data science.

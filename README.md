@@ -9,6 +9,7 @@ This project analyzes bike data from 3 cities. Using the data, it prints descrip
 
 The program also provides error handling to avoid corrupt/incomplete data
 
+Note that the project does not source from any database.
 ### Files used
 Include bikeshare_2.py for the data analysis and chicago.csv, new_york_city.csv, washington.csv for data analysis 
 
